@@ -1,0 +1,390 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#8989c3",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的通知公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告详情"
+		}
+	}
+	,{
+		"path": "pages/wuzi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资展示"
+		}
+	},{
+		"path": "pages/wuzi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的物资"
+		}
+	},{
+		"path": "pages/wuzi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资添加/修改"
+		}
+	},{
+		"path": "pages/wuzi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资详情"
+		}
+	}
+	,{
+		"path": "pages/wuziChuruInout/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库展示"
+		}
+	},{
+		"path": "pages/wuziChuruInout/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的出入库"
+		}
+	},{
+		"path": "pages/wuziChuruInout/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库添加/修改"
+		}
+	},{
+		"path": "pages/wuziChuruInout/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情"
+		}
+	}
+	,{
+		"path": "pages/wuziChuruInoutList/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情展示"
+		}
+	},{
+		"path": "pages/wuziChuruInoutList/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的出入库详情"
+		}
+	},{
+		"path": "pages/wuziChuruInoutList/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情添加/修改"
+		}
+	},{
+		"path": "pages/wuziChuruInoutList/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情详情"
+		}
+	}
+	,{
+		"path": "pages/wuziCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资收藏展示"
+		}
+	},{
+		"path": "pages/wuziCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的物资收藏"
+		}
+	},{
+		"path": "pages/wuziCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资收藏添加/修改"
+		}
+	},{
+		"path": "pages/wuziCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资收藏详情"
+		}
+	}
+	,{
+		"path": "pages/wuziJuanzeng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资捐赠展示"
+		}
+	},{
+		"path": "pages/wuziJuanzeng/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的物资捐赠"
+		}
+	},{
+		"path": "pages/wuziJuanzeng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资捐赠添加/修改"
+		}
+	},{
+		"path": "pages/wuziJuanzeng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资捐赠详情"
+		}
+	}
+	,{
+		"path": "pages/wuziLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资留言展示"
+		}
+	},{
+		"path": "pages/wuziLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的物资留言"
+		}
+	},{
+		"path": "pages/wuziLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资留言添加/修改"
+		}
+	},{
+		"path": "pages/wuziLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资留言详情"
+		}
+	}
+	,{
+		"path": "pages/wuziYuyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资申请展示"
+		}
+	},{
+		"path": "pages/wuziYuyue/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的物资申请"
+		}
+	},{
+		"path": "pages/wuziYuyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资申请添加/修改"
+		}
+	},{
+		"path": "pages/wuziYuyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "物资申请详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#8989c3",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "小区物业新冠疫情物资管理平台首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小区物业新冠疫情物资管理平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#9ad4ed",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/wuzi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "物资"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
